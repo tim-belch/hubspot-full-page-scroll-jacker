@@ -1,0 +1,20 @@
+{
+  "contains_overridable_hubl_tags" : true,
+  "content_tags" : [ ],
+  "css_assets" : [ ],
+  "editable_contexts" : [ ],
+  "external_js" : [ ],
+  "extra_classes" : "",
+  "global" : false,
+  "help_text" : "",
+  "host_template_types" : [ "PAGE" ],
+  "js_assets" : [ ],
+  "label" : null,
+  "other_assets" : [ ],
+  "placement_rules" : [ ],
+  "purchased" : false,
+  "smart_type" : "NOT_SMART",
+  "tags" : [ ],
+  "id" : 8982599235,
+  "is_available_for_new_content" : true
+}

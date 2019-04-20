@@ -1,0 +1,109 @@
+[ {
+  "id" : "aaf0fd32-be3a-3be2-4b47-77050777148c",
+  "name" : "section",
+  "type" : "group",
+  "label" : "Section",
+  "sortable" : false,
+  "required" : false,
+  "locked" : false,
+  "occurrence" : {
+    "min" : null,
+    "max" : null,
+    "sorting_label_field" : null,
+    "default" : null
+  },
+  "hierarchical" : false,
+  "max_depth" : 0,
+  "children" : [ {
+    "id" : "90592d86-75f9-aac2-7174-e84a940ef5fb",
+    "name" : "background_color",
+    "type" : "color",
+    "label" : "Overlay Color",
+    "sortable" : false,
+    "required" : false,
+    "locked" : false,
+    "hierarchical" : false,
+    "max_depth" : 0,
+    "default" : {
+      "color" : "#ffffff",
+      "opacity" : 100
+    }
+  }, {
+    "id" : "460f8125-47e7-329f-feb4-62bf19a5044d",
+    "name" : "background_image",
+    "type" : "image",
+    "label" : "Background Image",
+    "sortable" : false,
+    "required" : false,
+    "locked" : false,
+    "hierarchical" : false,
+    "max_depth" : 0,
+    "resizable" : true,
+    "default" : {
+      "src" : "",
+      "alt" : null
+    }
+  }, {
+    "id" : "2835c8aa-88bd-8b09-69a6-79a6f4de526c",
+    "name" : "section_content",
+    "type" : "richtext",
+    "label" : "Section Content",
+    "sortable" : false,
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "hierarchical" : false,
+    "max_depth" : 0,
+    "default" : null
+  } ],
+  "default" : {
+    "background_color" : {
+      "color" : "#ffffff",
+      "opacity" : 100
+    },
+    "background_image" : {
+      "src" : "",
+      "alt" : null
+    }
+  }
+}, {
+  "id" : "62fd74c6-de04-fc76-c1ff-37e9edff6ef0",
+  "name" : "sticky_content",
+  "type" : "richtext",
+  "label" : "Sticky Content",
+  "sortable" : false,
+  "required" : false,
+  "locked" : false,
+  "validation_regex" : "",
+  "hierarchical" : false,
+  "max_depth" : 0,
+  "default" : null
+}, {
+  "id" : "e56653e9-8b85-b52d-48d1-99371acadab5",
+  "name" : "sticky_form",
+  "type" : "form",
+  "label" : "Sticky Form",
+  "sortable" : false,
+  "required" : false,
+  "locked" : false,
+  "hierarchical" : false,
+  "max_depth" : 0,
+  "default" : {
+    "response_type" : "inline",
+    "message" : "Thanks for submitting the form."
+  }
+}, {
+  "id" : "f5942958-15e4-99c2-4dfe-391d42b5e415",
+  "name" : "sticky_content_background_color",
+  "type" : "color",
+  "label" : "Sticky Content Background Color",
+  "sortable" : false,
+  "required" : false,
+  "locked" : false,
+  "hierarchical" : false,
+  "max_depth" : 0,
+  "default" : {
+    "color" : "#ececec",
+    "opacity" : 100
+  }
+} ]
