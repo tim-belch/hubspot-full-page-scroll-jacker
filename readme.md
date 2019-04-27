@@ -4,7 +4,9 @@
 #### Description
 The Full page scroll jacker module for the HubSpot CMS features a scrolling section on the left with a static section on the right.
 **Why is it called a scroll jacker?**
+
 The left side content snaps to full page height when the browser's scroll functionality is triggered
+
 **What other features are there?**
 - Navigation using UP & DOWN arrows
 - Scroll jacking is disabled on mobile and the form stacks nicely

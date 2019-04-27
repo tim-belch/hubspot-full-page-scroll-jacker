@@ -11,7 +11,7 @@ html body {
   padding: 0 !importan;
 }
 .belch-jacker h2 {
-  font-size: 3rem; 
+  font-size: 3rem;
 }
 .belch-jacker h1,
 .belch-jacker h2,
@@ -19,7 +19,7 @@ html body {
 .belch-jacker h4,
 .belch-jacker h5,
 .belch-jacker h6 {
-  font-family: 'Archivo Black', sans-serif; 
+  font-family: 'Archivo Black', sans-serif;
 }
 .belch-jacker p, .belch-jacker {
   font-size: 1.2rem;
@@ -78,9 +78,9 @@ html body {
   overflow: hidden;
 }
 .belch-jacker .hs_cos_wrapper_type_form form.hs-form .hs-form-required, .widget-type-custom_widget form.hs-form .hs-form-required,
-.belch-jacker .hs_cos_wrapper_type_form form.hs-form legend, 
-.belch-jacker .hs_cos_wrapper_type_form form.hs-form label, 
-.belch-jacker .widget-type-custom_widget form.hs-form legend, 
+.belch-jacker .hs_cos_wrapper_type_form form.hs-form legend,
+.belch-jacker .hs_cos_wrapper_type_form form.hs-form label,
+.belch-jacker .widget-type-custom_widget form.hs-form legend,
 .belch-jacker .widget-type-custom_widget form.hs-form label{
   display:none;
 }
@@ -92,7 +92,7 @@ html body {
     width: calc(100vw);
   }
   .belch-jacker, .row-fluid.belch-jacker-section, .belchj-inner-section {
-    min-height: calc(100vh); 
+    min-height: calc(100vh);
     min-width: calc(100vw);
     height: inherit;
   }
@@ -111,7 +111,7 @@ html body {
     padding-top: 24rem;
   }
   html, body {
-   font-size: 12px; 
+   font-size: 12px;
   }
 }
 .belch-jacker-section .hs-form {
